@@ -1,0 +1,2 @@
+# Daily Notes
+Use descriptive class names instead of inline styles
